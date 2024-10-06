@@ -1,0 +1,14 @@
+C:\Users\Nuran\source\repos\6oktyabr\6oktyabr\bin\Debug\net6.0\6oktyabr.exe
+C:\Users\Nuran\source\repos\6oktyabr\6oktyabr\bin\Debug\net6.0\6oktyabr.deps.json
+C:\Users\Nuran\source\repos\6oktyabr\6oktyabr\bin\Debug\net6.0\6oktyabr.runtimeconfig.json
+C:\Users\Nuran\source\repos\6oktyabr\6oktyabr\bin\Debug\net6.0\6oktyabr.dll
+C:\Users\Nuran\source\repos\6oktyabr\6oktyabr\bin\Debug\net6.0\6oktyabr.pdb
+C:\Users\Nuran\source\repos\6oktyabr\6oktyabr\obj\Debug\net6.0\6oktyabr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nuran\source\repos\6oktyabr\6oktyabr\obj\Debug\net6.0\6oktyabr.AssemblyInfoInputs.cache
+C:\Users\Nuran\source\repos\6oktyabr\6oktyabr\obj\Debug\net6.0\6oktyabr.AssemblyInfo.cs
+C:\Users\Nuran\source\repos\6oktyabr\6oktyabr\obj\Debug\net6.0\6oktyabr.csproj.CoreCompileInputs.cache
+C:\Users\Nuran\source\repos\6oktyabr\6oktyabr\obj\Debug\net6.0\6oktyabr.dll
+C:\Users\Nuran\source\repos\6oktyabr\6oktyabr\obj\Debug\net6.0\refint\6oktyabr.dll
+C:\Users\Nuran\source\repos\6oktyabr\6oktyabr\obj\Debug\net6.0\6oktyabr.pdb
+C:\Users\Nuran\source\repos\6oktyabr\6oktyabr\obj\Debug\net6.0\6oktyabr.genruntimeconfig.cache
+C:\Users\Nuran\source\repos\6oktyabr\6oktyabr\obj\Debug\net6.0\ref\6oktyabr.dll
